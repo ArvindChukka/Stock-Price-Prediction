@@ -20,13 +20,6 @@ The LSTM model is built using deep learning frameworks like TensorFlow or PyTorc
 ## Evaluation and Results 📈
 Once the model is trained, we evaluate its performance on the testing dataset. We compute various metrics such as mean squared error (MSE), root mean squared error (RMSE), and mean absolute error (MAE) to assess the model's accuracy. We visualize the predicted stock prices alongside the actual prices to gain insights into the model's performance.
 
-## Usage 💪🏻
-To run the project locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM`
-2. Install the necessary dependencies: `pip install -r requirements.txt`
-3. Download the dataset from [link] and place it in the `data` directory.
-4. Run the `train.py` script to train the LSTM model.
-5. Run the `predict.py` script to make predictions on new data.
 
 ## Results and Discussion 📊
 In this section, we present the results of our stock market prediction experiments. We discuss the model's performance, its strengths, limitations, and potential areas of improvement. We also provide visualizations of the predicted stock prices and compare them with the actual prices.
